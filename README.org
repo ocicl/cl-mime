@@ -1,0 +1,10 @@
+* cl-mime
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hanshuebner/cl-mime.git   |
+| commit  | 7f86f28  |
+| systems | cl-mime |
+|---------+-------------------------------------------|
+
